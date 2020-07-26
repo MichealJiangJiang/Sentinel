@@ -19,7 +19,7 @@ import javax.enterprise.inject.se.SeContainer;
 import javax.enterprise.inject.se.SeContainerInitializer;
 
 /**
- * @author sea
+ * @author seaA
  */
 public class DemoApplication {
 
